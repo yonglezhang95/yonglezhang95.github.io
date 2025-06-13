@@ -22,15 +22,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yongle Zhang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  avatar           : "images/Yongle_View.png"
+  bio              : "University of Technology Sydney"
+  location         : "Sydney, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  googlescholar    : "https://scholar.google.com/citations?user=FqkLxW4AAAAJ&hl=zh-CN&oi=ao"
+  email            : "yongle.zhang@student.uts.edu.au"
+  researchgate     : "https://www.researchgate.net/profile/Zhang-Yongle?ev=hdr_xprf"
+  orcid            : "https://orcid.org/0000-0002-9236-3479"
   bitbucket        :
   codepen          :
   dribbble         :
