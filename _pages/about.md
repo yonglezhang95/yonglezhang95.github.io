@@ -17,16 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a fourth-year Ph.D. student at the [University of Technology Sydney (UTS)](https://www.uts.edu.au), under the supervision of [Prof. Qiang Wu](https://profiles.uts.edu.au/qiang.wu). I received my M.Eng. degree from [Ocean University of China](http://eweb.ouc.edu.cn) in 2020, where I was advised by [Prof. Junyu Dong](http://it.ouc.edu.cn/djy/), and my B.Eng. degree from [Jiangxi Normal University](https://www.jxnu.edu.cn) in 2017.
+
+From 2020 to 2021, I interned at the Vivo AI Research Institute in Hangzhou, focusing on image generation tasks.
+
+My research interests lie in multi-modal image processing (e.g., edges, text, sketches) and computer vision. Throughout my Master's and Ph.D. studies, my research has primarily focused on image inpainting. I am also passionate about applying image inpainting techniques to practical applications, such as restoring ancient paintings and reconstructing damaged heritage buildings.
+
+I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at yongle.zhang@student.uts.edu.au if you are interested in working together.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-
 # 🔥 News
-/* 
- * - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum,   * ac tempus justo dapibus sit amet. 
- * - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum,   * ac tempus justo dapibus sit amet.
- */
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum,   * ac tempus justo dapibus sit amet.
+- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum,   ac tempus justo dapibus sit amet.
 
 # 📝 Publications 
 
