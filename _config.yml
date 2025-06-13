@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yongle Zhang"
-  avatar           : "images/Yongle_View.png"
+  avatar           : "images/yongle_view512.png"
   bio              : "University of Technology Sydney"
   location         : "Sydney, China"
   employer         :
