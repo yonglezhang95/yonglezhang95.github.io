@@ -107,3 +107,12 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+/* Override avatar style to show original shape instead of circle */
+img.avatar {
+  border-radius: 0 !important;     // 去除圆角，显示为矩形
+  width: auto !important;          // 使用图片原始宽度
+  height: auto !important;         // 使用图片原始高度
+  max-width: none !important;      // 不限制最大宽度
+  box-shadow: none !important;     // 可选：移除阴影
+}
+
