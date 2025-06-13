@@ -23,24 +23,68 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+---
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+---
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Recovering Partially Corrupted Major Objects through Tri-modality Based
+Image Completion](https://arxiv.org/pdf/2503.07047)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yongle Zhang**, Yimin Liu, Qiang Wu
 
+Preprint(2025)
+
+---
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+---
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Peer Review 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Consistent Image Inpainting with Pre-Perception
+and Cross-Perception Collaborative Processes]
+
+**Yongle Zhang**, Yimin Liu, Hao Fan, Ruotong Hu, Jian Zhang, Qiang Wu
+
+In Peer Review(2023)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mutual Dual-Task Generator With Adaptive
+Attention Fusion for Image Inpainting](https://ieeexplore.ieee.org/abstract/document/10143682)
+
+**Yongle Zhang**, Yimin Liu, Ruotong Hu, Qiang Wu, Jian Zhang
+
+IEEE Transactions on Multimedia (2023)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A joint guidance-enhanced perceptual encoder and atrous separable pyramid-convolutions for image inpainting](https://www.sciencedirect.com/science/article/pii/S092523122030120X)
+
+**Yongle Zhang**, Yingyu Wang, Junyu Dong, Lin Qi, Hao Fan, Xinghui Dong, Muwei Jian, Hui Yu 
+
+Neurocomputing (2020)
+</div>
+</div>
+---
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+---
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
