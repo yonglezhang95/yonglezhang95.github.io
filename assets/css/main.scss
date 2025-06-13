@@ -39,13 +39,6 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-img.avatar {
-  border-radius: 0 !important;   // 去掉圆角，变回方图
-  width: auto !important;        // 使用原始宽度
-  height: auto !important;       // 保留原始高度
-  max-width: none !important;    // 不限制最大宽度
-  box-shadow: none !important;   // 取消阴影（可选）
-}
 
 .paper-box {
     display: flex;
