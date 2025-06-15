@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 👤 Introduction
 
 I am currently a fourth-year Ph.D. student at the [University of Technology Sydney (UTS)](https://www.uts.edu.au), under the supervision of [Prof. Qiang Wu](https://profiles.uts.edu.au/qiang.wu). I received my M.Eng. degree from [Ocean University of China](http://eweb.ouc.edu.cn) in 2020, where I was advised by [Prof. Junyu Dong](http://it.ouc.edu.cn/djy/), and my B.Eng. degree from [Jiangxi Normal University](https://www.jxnu.edu.cn) in 2017.
 
@@ -101,9 +102,10 @@ IEEE Transactions on Information Forensics and Security (2024)
 </div>
 
 # 🎖 Honors and Awards
-- [88.8/100] GPA during Master.
-- [89.1/100] GPA during Bachelor.
 - *2019.12* IELTS 6.5.
+- Master's GPA: 88.8/100.
+- Bachelor's GPA: 89.1/100.
+- Intermediate Software Designer Certificate, China Computer and Software Technology Proficiency
 
 # 📖 Educations
 - *2021.08 - 2025.08 (now)*, PhD, University of Sydney Technology, Sydney, Australia. 
