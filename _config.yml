@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yongle Zhang"
   avatar           : "images/yongle_view512.png"
-  bio              : "Ph.D. Student in Computer Vision and Multi-Modal Image Processing at University of Technology Sydney"
-  location         : "Sydney, China"
+  bio              : "Ph.D. Student at University of Technology Sydney"
+  location         : "Sydney, Australia"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FqkLxW4AAAAJ&hl=zh-CN&oi=ao"
