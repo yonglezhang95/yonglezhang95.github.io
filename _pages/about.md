@@ -118,5 +118,5 @@ IEEE Transactions on Information Forensics and Security (2024)
 - *2020.11 - 2021.06*, Vivo AI Research Institute in Hangzhou, China, focusing on image generation tasks.
 
 # 🌍 Visitor Map
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=UNIQUE_CODE'></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6HQjkym1gTUUcSev24z3ANID84C63CUFQBwMldhc8IE"></script>
 
