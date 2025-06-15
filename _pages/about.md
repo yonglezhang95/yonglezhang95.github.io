@@ -49,7 +49,7 @@ Image Completion](https://arxiv.org/pdf/2503.07047)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Full_network(TIP)-2.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Full_network(TIP)-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Consistent Image Inpainting with Pre-Perception
@@ -88,7 +88,7 @@ Attention Fusion for Image Inpainting](https://ieeexplore.ieee.org/abstract/docu
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 --- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/main.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TIFS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Improving Consistency of Proxy-Level Contrastive Learning for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/10592071)
