@@ -33,7 +33,7 @@ I am actively seeking postdoctoral opportunities to further advance my research 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/sketch-text-guided-network.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sketch-text-guided-network.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Recovering Partially Corrupted Major Objects through Tri-modality Based
@@ -49,7 +49,7 @@ Preprint(2025)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Peer Review 2024</div><img src='images/Full_network(TIP)-2.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Full_network(TIP)-2.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Consistent Image Inpainting with Pre-Perception
@@ -61,7 +61,7 @@ In Peer Review(2023)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/Visio-full_network.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Visio-full_network.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Mutual Dual-Task Generator With Adaptive
@@ -74,7 +74,7 @@ IEEE Transactions on Multimedia (2023)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurocomputing 2020</div><img src='images/network.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/network.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A joint guidance-enhanced perceptual encoder and atrous separable pyramid-convolutions for image inpainting](https://www.sciencedirect.com/science/article/pii/S092523122030120X)
