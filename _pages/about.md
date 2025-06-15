@@ -20,8 +20,6 @@ redirect_from:
 
 I am currently a fourth-year Ph.D. student at the [University of Technology Sydney (UTS)](https://www.uts.edu.au), under the supervision of [Prof. Qiang Wu](https://profiles.uts.edu.au/qiang.wu). I received my M.Eng. degree from [Ocean University of China](http://eweb.ouc.edu.cn) in 2020, where I was advised by [Prof. Junyu Dong](http://it.ouc.edu.cn/djy/), and my B.Eng. degree from [Jiangxi Normal University](https://www.jxnu.edu.cn) in 2017.
 
-From 2020 to 2021, I interned at the Vivo AI Research Institute in Hangzhou, focusing on image generation tasks.
-
 My research interests lie in multi-modal image processing (e.g., edges, text, sketches) and computer vision. Throughout my Master's and Ph.D. studies, my research has primarily focused on image inpainting. I am also passionate about applying image inpainting techniques to practical applications, such as restoring ancient paintings and reconstructing damaged heritage buildings.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -119,5 +117,5 @@ IEEE Transactions on Information Forensics and Security (2024)
 # 💻 Internships
 - *2020.11 - 2021.06*, Vivo AI Research Institute in Hangzhou, China, focusing on image generation tasks.
 
-{% include visitor_map.html %}
+{% include _includes/visitor_map.html %}
 
