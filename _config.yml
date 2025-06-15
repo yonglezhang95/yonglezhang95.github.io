@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yongle Zhang"
-description              : "Yongle Zhang lkha;hv;nvkjans;kzjgn jkz.bknf;k v"
+description              : "Ph.D. Student in Computer Vision and Multi-modal Image Processing at UTS"
 repository               : "yonglezhang95/yonglezhang95.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yongle Zhang"
   avatar           : "images/yongle_view512.png"
-  bio              : "Ph.D. Student at University of Technology Sydney"
+  bio              : "University of Technology Sydney"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : 
