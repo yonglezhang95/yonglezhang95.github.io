@@ -102,10 +102,10 @@ IEEE Transactions on Information Forensics and Security (2024)
 </div>
 
 # 🎖 Honors and Awards
-- *2019.12* IELTS 6.5.
+- *2019.12*: IELTS 6.5.
 - Master's GPA: 88.8/100.
 - Bachelor's GPA: 89.1/100.
-- Intermediate Software Designer Certificate, China Computer and Software Technology Proficiency
+- Intermediate Software Designer Certificate, China Computer and Software Technology Proficiency.
 
 # 📖 Educations
 - *2021.08 - 2025.08 (now)*, PhD, University of Sydney Technology, Sydney, Australia. 
