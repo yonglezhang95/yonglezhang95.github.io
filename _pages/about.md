@@ -93,7 +93,7 @@ Neurocomputing (2020)
 
 [Improving Consistency of Proxy-Level Contrastive Learning for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/10592071)
 
-Yimin Liu, Meibin Qi, **Yongle Zhang^***, Qiang Wu, Jingjing Wu, Shou Zhuang 
+Yimin Liu, Meibin Qi, **Yongle Zhang<sup>*</sup>**, Qiang Wu, Jingjing Wu, Shou Zhuang 
 
 IEEE Transactions on Information Forensics and Security (2024)
 </div>
