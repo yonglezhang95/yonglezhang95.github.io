@@ -22,6 +22,8 @@ I am currently a fourth-year Ph.D. student at the [University of Technology Sydn
 
 My research interests lie in multi-modal image processing (e.g., edges, text, sketches) and computer vision. Throughout my Master's and Ph.D. studies, my research has primarily focused on image inpainting. I am also passionate about applying image inpainting techniques to practical applications, such as restoring ancient paintings and reconstructing damaged heritage buildings.
 
+I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at yongle.zhang@student.uts.edu.au if you are interested in working together.
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 <!-- # 🔥 News
@@ -29,7 +31,7 @@ My research interests lie in multi-modal image processing (e.g., edges, text, sk
 - - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum,   ac tempus justo dapibus sit amet. -->
 
 # 💬 Notes
-- I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at [yongle.zhang@student.uts.edu.au]() if you are interested in working together.
+- I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at **yongle.zhang@student.uts.edu.au** if you are interested in working together.
 
 # 📝 Publications 
 
@@ -52,8 +54,8 @@ Preprint(2025)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Full_network(TIP)-2.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Consistent Image Inpainting with Pre-Perception
-and Cross-Perception Collaborative Processes]()
+Consistent Image Inpainting with Pre-Perception
+and Cross-Perception Collaborative Processes
 
 **Yongle Zhang**, Yimin Liu, Hao Fan, Ruotong Hu, Jian Zhang, Qiang Wu
 
@@ -118,7 +120,7 @@ IEEE Transactions on Information Forensics and Security (2024)
 - *2020.11 - 2021.06*, Vivo AI Research Institute in Hangzhou, China, focusing on image generation tasks.
 
 # 🌍 Visitor Map
-<div id="clustrmap-container" style="width: 300px; height: 300px; margin: 0 auto; overflow: hidden;">
+<div id="clustrmap-container" style="width: 310px; height: 310px; margin: 0 auto; overflow: auto;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6HQjkym1gTUUcSev24z3ANID84C63CUFQBwMldhc8IE"></script>
 </div>
 
