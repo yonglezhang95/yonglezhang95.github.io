@@ -88,6 +88,17 @@ Neurocomputing (2020)
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 --- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/network.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving Consistency of Proxy-Level Contrastive Learning for Unsupervised Person Re-Identification](https://ieeexplore.ieee.org/document/10592071)
+
+**Yongle Zhang**, Yingyu Wang, Junyu Dong, Lin Qi, Hao Fan, Xinghui Dong, Muwei Jian, Hui Yu 
+
+IEEE Transactions on Information Forensics and Security (2024)
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
