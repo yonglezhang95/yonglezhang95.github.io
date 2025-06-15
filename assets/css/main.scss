@@ -109,7 +109,7 @@ h1:before, .anchor:before {
 }
 .author__avatar img {
   border-radius: 0 !important;       // 去除圆角（防止椭圆）
-  width: 100px !important;           // 设置一个合适的固定宽度
+  width: 150px !important;           // 设置一个合适的固定宽度
   height: auto !important;           // 保持原始宽高比
   box-shadow: none !important;       // 可选：移除阴影
 }
