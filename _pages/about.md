@@ -29,7 +29,7 @@ My research interests lie in multi-modal image processing (e.g., edges, text, sk
 - - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum,   ac tempus justo dapibus sit amet. -->
 
 # 💬 Notes
-- I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at **yongle.zhang@student.uts.edu.au** if you are interested in working together.
+- I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at [yongle.zhang@student.uts.edu.au]() if you are interested in working together.
 
 # 📝 Publications 
 
@@ -41,7 +41,7 @@ Image Completion](https://arxiv.org/pdf/2503.07047)
 
 **Yongle Zhang**, Yimin Liu, Qiang Wu
 
-Preprint(2025)
+**Preprint** (2025)
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -57,7 +57,7 @@ and Cross-Perception Collaborative Processes
 
 **Yongle Zhang**, Yimin Liu, Hao Fan, Ruotong Hu, Jian Zhang, Qiang Wu
 
-In Peer Review(2024)
+**In Peer Review** (2024)
 </div>
 </div>
 
@@ -69,7 +69,7 @@ Attention Fusion for Image Inpainting](https://ieeexplore.ieee.org/abstract/docu
 
 **Yongle Zhang**, Yimin Liu, Ruotong Hu, Qiang Wu, Jian Zhang
 
-IEEE Transactions on Multimedia (2023)
+**IEEE Transactions on Multimedia** (2023)
 </div>
 </div>
 
@@ -81,7 +81,7 @@ IEEE Transactions on Multimedia (2023)
 
 **Yongle Zhang**, Yingyu Wang, Junyu Dong, Lin Qi, Hao Fan, Xinghui Dong, Muwei Jian, Hui Yu 
 
-Neurocomputing (2020)
+**Neurocomputing** (2020)
 </div>
 </div>
 <!--
@@ -95,7 +95,7 @@ Neurocomputing (2020)
 
 Yimin Liu, Meibin Qi, **Yongle Zhang<sup>*</sup>**, Qiang Wu, Jingjing Wu, Shou Zhuang 
 
-IEEE Transactions on Information Forensics and Security (2024)
+**IEEE Transactions on Information Forensics and Security** (2024)
 </div>
 </div>
 
@@ -118,7 +118,7 @@ IEEE Transactions on Information Forensics and Security (2024)
 - *2020.11 - 2021.06*, Vivo AI Research Institute in Hangzhou, China, focusing on image generation tasks.
 
 # 🌍 Visitor Map
-<div id="clustrmap-container" style="width: 350px; height: 350px; margin: 0 auto; overflow: visible;">
+<div id="clustrmap-container" style="width: 350px; height: 350px; overflow: visible;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6HQjkym1gTUUcSev24z3ANID84C63CUFQBwMldhc8IE"></script>
 </div>
 
