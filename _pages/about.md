@@ -29,7 +29,7 @@ My research interests lie in multi-modal image processing (e.g., edges, text, sk
 - - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum,   ac tempus justo dapibus sit amet. -->
 
 # 💬 Notes
-- I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at yongle.zhang@student.uts.edu.au if you are interested in working together.
+- I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at [yongle.zhang@student.uts.edu.au]() if you are interested in working together.
 
 # 📝 Publications 
 
@@ -53,7 +53,7 @@ Preprint(2025)
 <div class='paper-box-text' markdown="1">
 
 [Consistent Image Inpainting with Pre-Perception
-and Cross-Perception Collaborative Processes]
+and Cross-Perception Collaborative Processes]()
 
 **Yongle Zhang**, Yimin Liu, Hao Fan, Ruotong Hu, Jian Zhang, Qiang Wu
 
@@ -118,7 +118,7 @@ IEEE Transactions on Information Forensics and Security (2024)
 - *2020.11 - 2021.06*, Vivo AI Research Institute in Hangzhou, China, focusing on image generation tasks.
 
 # 🌍 Visitor Map
-<div id="clustrmap-container" style="width: 300px; height: 200px; overflow: hidden;">
+<div id="clustrmap-container" style="width: 300px; height: 300px; margin: 0 auto; overflow: hidden;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=6HQjkym1gTUUcSev24z3ANID84C63CUFQBwMldhc8IE"></script>
 </div>
 
