@@ -39,9 +39,9 @@ My research interests lie in multi-modal image processing (e.g., edges, text, sk
 [Recovering Partially Corrupted Major Objects through Tri-modality Based
 Image Completion](https://arxiv.org/pdf/2503.07047)
 
-**Yongle Zhang**, Yimin Liu, Qiang Wu
+**Yongle Zhang**, Yimin Liu, Yan Huang, Qiang Wu
 
-**Preprint** (2025)
+**In Peer Review** (2025)
 
 <!--
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -57,7 +57,7 @@ and Cross-Perception Collaborative Processes
 
 **Yongle Zhang**, Yimin Liu, Hao Fan, Ruotong Hu, Jian Zhang, Qiang Wu
 
-**In Peer Review** (2024)
+**2nd Review** (2024)
 </div>
 </div>
 
