@@ -36,8 +36,7 @@ My research interests lie in multi-modal image processing (e.g., edges, text, sk
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/sketch-text-guided-network.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Recovering Partially Corrupted Major Objects through Tri-modality Based
-Image Completion](https://arxiv.org/pdf/2503.07047)
+[Recovering Partially Corrupted Objects via Sketch-Guided Bidirectional Feature Interaction](https://arxiv.org/pdf/2503.07047)
 
 **Yongle Zhang**, Yimin Liu, Yan Huang, Qiang Wu
 
