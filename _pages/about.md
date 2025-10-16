@@ -29,7 +29,7 @@ My research interests lie in multi-modal image processing (e.g., edges, text, sk
 - - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum,   ac tempus justo dapibus sit amet. -->
 
 # 💬 Notes
-- I am actively seeking postdoctoral opportunities to further advance my research career. I welcome collaboration and discussion on related topics. Please feel free to contact me at [yongle.zhang@student.uts.edu.au]() if you are interested in working together.
+- I am actively seeking postdoctoral opportunities to advance my research career further. I welcome collaboration and discussion on related topics. Please feel free to contact me at [yongle.zhang@student.uts.edu.au]() if you are interested in working together.
 
 # 📝 Publications 
 
@@ -56,7 +56,7 @@ and Cross-Perception Collaborative Processes
 
 **Yongle Zhang**, Yimin Liu, Hao Fan, Ruotong Hu, Jian Zhang, Qiang Wu
 
-**2nd Review** (2024)
+**IEEE Transactions on Image Processing** (2025, Early Access, [DOI:](10.1109/TIP.2025.3622071))
 </div>
 </div>
 
