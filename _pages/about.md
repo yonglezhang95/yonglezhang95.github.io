@@ -56,7 +56,7 @@ and Cross-Perception Collaborative Processes
 
 **Yongle Zhang**, Yimin Liu, Hao Fan, Ruotong Hu, Jian Zhang, Qiang Wu
 
-**IEEE Transactions on Image Processing** (2025, Early Access, [DOI:](10.1109/TIP.2025.3622071))
+**IEEE Transactions on Image Processing** (2025, Early Access, [DOI:] (10.1109/TIP.2025.3622071))
 </div>
 </div>
 
