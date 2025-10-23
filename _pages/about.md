@@ -51,8 +51,7 @@ My research interests lie in multi-modal image processing (e.g., edges, text, sk
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Full_network(TIP)-2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Consistent Image Inpainting with Pre-Perception
-and Cross-Perception Collaborative Processes
+[Consistent Image Inpainting with Pre-Perception and Cross-Perception Collaborative Processes](https://ieeexplore.ieee.org/document/11212802)
 
 **Yongle Zhang**, Yimin Liu, Hao Fan, Ruotong Hu, Jian Zhang, Qiang Wu
 
